@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @David-Akintan
 - 👀 I’m interested in Machine Learning and Artificial intelligence
 - 🌱 I’m currently learning the use of neural networks with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me => mail me at akintandavid96@gmail.com
 
 <!---
 David-Akintan/David-Akintan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
