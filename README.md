@@ -1,8 +1,8 @@
-**Hi 👋, I'm David Akintan (Dayve)**
+**Hi 👋, I'm Dayve**
 
 
 
-Hello and welcome to my GitHub profile! My name is Akintan David(Dayve) and I am a Blockchain developer and smart contract analyst.
+Hello and welcome to my GitHub profile! My name is Dayve and I am a Blockchain developer and smart contract analyst.
 
 
 <!---
