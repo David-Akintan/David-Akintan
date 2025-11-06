@@ -1,9 +1,5 @@
 ## Hi 👋, I'm [Dayve](https://github.com/david-akintan)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/zenitsutrades)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iam.dayve/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jeshrum2)
-
 ### Glad to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=page&style=flat-square&color=0088cc)
 
 I earned a B.Tech. Degree in Software Engineering 🎓 from the Federal University of Technology, Akure. I am a passionate learner who's always willing to learn and work across domains and fields💡. I love exploring new technologies and leveraging them to solve real-world problems ✨. I am currently a full-stack Blockchain developer and smart contract analyst🤓.
@@ -46,7 +42,35 @@ I earned a B.Tech. Degree in Software Engineering 🎓 from the Federal Universi
 - Chainlink
 - Socket.io
 
+### 🤝 Connect With Me
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://x.com/zenitsutrades" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/iam.dayve/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+</td>
+<td align="center">
+<a href="https://discord.gg/0xDayve" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/jeshrum2" target="_blank">
+<img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
+</a>
+</td>
+</tr>
+</table>
+
 <!---
 David-Akintan/David-Akintan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
